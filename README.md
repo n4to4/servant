@@ -37,4 +37,4 @@ release of `servant` package.
 
 ## Contributing
 
-See `CONTRIBUTING.md`
+See [`CONTRIBUTING.md`](CONTRIBUTING.md)
